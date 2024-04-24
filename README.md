@@ -4,7 +4,7 @@
 ### [Link to the course I followed](https://nextjs.org/learn/dashboard-app)
 
 ## Interesting topics from the course:
-
+- [Getting Started](https://nextjs.org/learn/dashboard-app/getting-started)
 
 ## Install Next.js:
 - In the root of the project, run:
