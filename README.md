@@ -3,11 +3,12 @@
 
 ### [Link to the course I followed](https://nextjs.org/learn/dashboard-app)
 
-## Interesting topics from the course:
+## Topics from the course:
 - [Getting Started](https://nextjs.org/learn/dashboard-app/getting-started)
 - [CSS Styling](https://nextjs.org/learn/dashboard-app/css-styling)
 - [Optimizing Fonts and Images](https://nextjs.org/learn/dashboard-app/optimizing-fonts-images)
 - [Creating Layouts and Pages](https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages)
+- [Navigating Between Pages](https://nextjs.org/learn/dashboard-app/navigating-between-pages)
 
 ## Install Next.js:
 - In the root of the project, run:
