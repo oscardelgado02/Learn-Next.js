@@ -11,6 +11,7 @@
 - [Navigating Between Pages](https://nextjs.org/learn/dashboard-app/navigating-between-pages)
 - [Setting Up Your Database](https://nextjs.org/learn/dashboard-app/setting-up-your-database)
 - [Fetching Data](https://nextjs.org/learn/dashboard-app/fetching-data)
+- [Static and Dynamic Rendering](https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering)
 
 ## Install Next.js:
 - In the root of the project, run:
