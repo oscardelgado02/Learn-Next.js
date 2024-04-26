@@ -12,6 +12,7 @@
 - [Setting Up Your Database](https://nextjs.org/learn/dashboard-app/setting-up-your-database)
 - [Fetching Data](https://nextjs.org/learn/dashboard-app/fetching-data)
 - [Static and Dynamic Rendering](https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering)
+- [Streaming](https://nextjs.org/learn/dashboard-app/streaming)
 
 ## Install Next.js:
 - In the root of the project, run:
