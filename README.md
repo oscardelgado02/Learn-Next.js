@@ -15,6 +15,7 @@
 - [Streaming](https://nextjs.org/learn/dashboard-app/streaming)
 - [Partial Prerendering](https://nextjs.org/learn/dashboard-app/partial-prerendering)
 - [Adding Search and Pagination](https://nextjs.org/learn/dashboard-app/adding-search-and-pagination)
+- [Mutating Data](https://nextjs.org/learn/dashboard-app/mutating-data)
 
 ## Install Next.js:
 - In the root of the project, run:
