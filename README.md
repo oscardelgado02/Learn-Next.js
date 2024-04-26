@@ -13,6 +13,8 @@
 - [Fetching Data](https://nextjs.org/learn/dashboard-app/fetching-data)
 - [Static and Dynamic Rendering](https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering)
 - [Streaming](https://nextjs.org/learn/dashboard-app/streaming)
+- [Partial Prerendering](https://nextjs.org/learn/dashboard-app/partial-prerendering)
+- [Adding Search and Pagination](https://nextjs.org/learn/dashboard-app/adding-search-and-pagination)
 
 ## Install Next.js:
 - In the root of the project, run:
